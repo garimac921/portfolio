@@ -2,7 +2,7 @@
 
 Personal site for my work in AI governance, ethics, and safety.
 
-**Live:** https://
+**Live:** https://www.garimachauhan.me
 
 ## Built with
 - Plain HTML, CSS, and JavaScript in a single file, with no frameworks or build step
